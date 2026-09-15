@@ -1,2 +1,2 @@
 # JavieraReporta
-Este es el inicio de nuestro proyecto Jvariera Reporta
+Este es el inicio de nuestro proyecto Javiera Reporta
